@@ -1,0 +1,15 @@
+
+//Task 1
+
+let price = prompt ("Please enter £29.99");
+
+//Task 2
+parseFloat ("£29.99".slice(1));
+
+price = parseFloat (price.slice(1));
+
+console.log(price);
+
+parseFloat("29.99");
+
+console.log(typeof price);
