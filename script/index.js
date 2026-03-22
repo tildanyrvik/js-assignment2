@@ -24,3 +24,6 @@ let newPrice = price - discount;
 
 console.log(newPrice);
 
+//Task 4
+
+console.log(`Your new price is ${newPrice}`);
