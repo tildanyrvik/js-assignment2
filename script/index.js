@@ -13,3 +13,14 @@ console.log(price);
 parseFloat("29.99");
 
 console.log(typeof price);
+
+//Task 3
+
+let discount = 29.99 * 0.10;
+
+console.log(discount);
+
+let newPrice = price - discount;
+
+console.log(newPrice);
+
